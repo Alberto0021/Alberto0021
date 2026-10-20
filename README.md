@@ -34,65 +34,15 @@ Meu objetivo é continuar evoluindo tecnicamente por meio de projetos reais, est
 ## 🛠️ Tecnologias que estudo e utilizo
 
 <p align="left">
-
-  <img
-    alt="JavaScript"
-    height="40"
-    width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-  />
-
-  <img
-    alt="TypeScript"
-    height="40"
-    width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-  />
-
-  <img
-    alt="React"
-    height="40"
-    width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-  />
-
-  <img
-    alt="HTML5"
-    height="40"
-    width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-  />
-
-  <img
-    alt="CSS3"
-    height="40"
-    width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-  />
-
-  <img
-    alt="Jest"
-    height="40"
-    width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
-  />
-
-  <img
-    alt="Git"
-    height="40"
-    width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-  />
-
-  <img
-    alt="VS Code"
-    height="40"
-    width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-  />
-
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
+  <img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp;
+  <img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;
+  <img alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
+  <img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
+  <img alt="Jest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">&nbsp;
+  <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
+  <img alt="VS Code" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </p>
-
 ---
 
 ## 📚 Atualmente estudando
