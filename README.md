@@ -43,6 +43,39 @@ Meu objetivo é continuar evoluindo tecnicamente por meio de projetos reais, est
   <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
   <img alt="VS Code" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </p>
+
+---
+
+## ⭐ Projetos em destaque
+
+### ☕ Coffee Delivery
+
+Aplicação de delivery de cafés desenvolvida com React e TypeScript.
+
+**Tecnologias:** React | TypeScript | Styled Components | React Router
+
+🔗 [Ver repositório](https://github.com/Alberto21-boop/Coffee-Delivery)
+
+---
+
+### 🚗 Auto Peças
+
+Aplicação front-end para catálogo de autopeças.
+
+**Tecnologias:** React | TypeScript | API REST
+
+🔗 [Ver repositório](LINK_DO_REPOSITORIO)
+
+---
+
+### 🏦 Santander Bootcamp 2026
+
+Projeto em desenvolvimento durante o **Santander 2026 - AI React Front-end**.
+
+**Planejado:** React | JavaScript/TypeScript | Jest | integração com API
+
+🔗 Repositório em desenvolvimento
+
 ---
 
 ## 📚 Atualmente estudando
@@ -70,17 +103,3 @@ Estou reforçando e aprofundando conhecimentos em:
 - Criar aplicações Full Stack
 - Aumentar cobertura de testes
 - Melhorar continuamente meus projetos e documentação
-
----
-
-## 💻 Projetos
-
-Estou reorganizando meu GitHub e desenvolvendo novos projetos com foco em:
-
-- Código limpo
-- Boas práticas
-- Testes automatizados
-- Documentação
-- README detalhado
-- Deploy
-- Projetos que possam ser apresentados e explicados em entrevistas
