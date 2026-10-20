@@ -4,7 +4,7 @@ Desenvolvedor Front-end com foco em **JavaScript, TypeScript e React**.
 
 Atualmente estou aprofundando meus fundamentos de JavaScript e React, construindo projetos práticos e ampliando meus conhecimentos em **APIs REST, testes automatizados e boas práticas de desenvolvimento**.
 
-Meu objetivo é continuar evoluindo tecnicamente através de projetos reais, estudos constantes e desenvolvimento de aplicações modernas.
+Meu objetivo é continuar evoluindo tecnicamente por meio de projetos reais, estudos constantes e desenvolvimento de aplicações modernas.
 
 ---
 
@@ -23,85 +23,75 @@ Meu objetivo é continuar evoluindo tecnicamente através de projetos reais, est
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alberto21-boop&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Alberto21-boop&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto21-boop&layout=compact&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto21-boop&layout=compact&theme=tokyonight&locale=pt-br&custom_title=Linguagens%20mais%20usadas)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Alberto21-boop&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alberto21-boop&theme=tokyo-night&hide_border=true)
+![Sequência de contribuições](https://streak-stats.demolab.com/?user=Alberto21-boop&theme=tokyonight&locale=pt_BR)
 
 ---
 
 ## 🛠️ Tecnologias que estudo e utilizo
 
-<div style="display: inline_block"><br>
+<p align="left">
 
   <img
-    align="center"
     alt="JavaScript"
-    height="35"
-    width="45"
+    height="40"
+    width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
   />
 
   <img
-    align="center"
     alt="TypeScript"
-    height="35"
-    width="45"
+    height="40"
+    width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
   />
 
   <img
-    align="center"
     alt="React"
-    height="35"
-    width="45"
+    height="40"
+    width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
   />
 
   <img
-    align="center"
-    alt="HTML"
-    height="35"
-    width="45"
+    alt="HTML5"
+    height="40"
+    width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
   />
 
   <img
-    align="center"
-    alt="CSS"
-    height="35"
-    width="45"
+    alt="CSS3"
+    height="40"
+    width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
   />
 
   <img
-    align="center"
     alt="Jest"
-    height="35"
-    width="45"
+    height="40"
+    width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
   />
 
   <img
-    align="center"
     alt="Git"
-    height="35"
-    width="45"
+    height="40"
+    width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
   />
 
   <img
-    align="center"
     alt="VS Code"
-    height="35"
-    width="45"
+    height="40"
+    width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
   />
 
-</div>
+</p>
 
 ---
 
@@ -137,10 +127,10 @@ Estou reforçando e aprofundando conhecimentos em:
 
 Estou reorganizando meu GitHub e desenvolvendo novos projetos com foco em:
 
-- código limpo;
-- boas práticas;
-- testes;
-- documentação;
-- README detalhado;
-- deploy;
-- projetos que possam ser apresentados e explicados em entrevistas.
+- Código limpo
+- Boas práticas
+- Testes automatizados
+- Documentação
+- README detalhado
+- Deploy
+- Projetos que possam ser apresentados e explicados em entrevistas
