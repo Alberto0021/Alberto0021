@@ -23,11 +23,11 @@ Meu objetivo é continuar evoluindo tecnicamente por meio de projetos reais, est
 
 ## 📊 GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Alberto21-boop&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&locale=pt-br)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Alberto0021&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&locale=pt-br)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto21-boop&layout=compact&theme=tokyonight&locale=pt-br&custom_title=Linguagens%20mais%20usadas)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto0021&layout=compact&theme=tokyonight&locale=pt-br&custom_title=Linguagens%20mais%20usadas)
 
-![Sequência de contribuições](https://streak-stats.demolab.com/?user=Alberto21-boop&theme=tokyonight&locale=pt_BR)
+![Sequência de contribuições](https://streak-stats.demolab.com/?user=Alberto0021&theme=tokyonight&locale=pt_BR)
 
 ---
 
